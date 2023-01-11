@@ -18,8 +18,13 @@ Sono stati utilizzati dati relativi agli anni scolastici 2015/2016, 2017/2018, 2
 I dati disponibili riguardano tutte le regioni d'Italia eccetto il Trentino Alto Adige.
 
 ### Presentazione
-A [questo link](./pagina_iniziale.html) è possibile accedere alla presentazione e alla mappa interattiva citata in essa.
+Per consultare la presentazione animata è necessario aprire il file [pagina_iniziale.html](./pagina_iniziale.html), che è una pagina html che porta alla presentazione e alla mapppa interattiva.
+### Mappa interattiva
+La mappa interattiva può essere consultata mediante il file [mappa_interattiva.html](.mappa_interattiva.html)
+### Codice
+I notebook [raggiungibilità](./raggiungibilità.ipynb) e [accessibilità](./accessibilità.ipynb) contengono il materiale definitivo per i rispettivi temi.
+Il notebook [notebook](./notebook.ipynb) invece contiene tutti e tre i temi, incluso il materiale definitivo per il tema dell'ambiente (inclusa la mappa interattiva e alcuni cartine scartate in fase di presentazione); tutti i notebook contengono appunti testuali realizzati nel corso della ricerca. 
 
 ### Strumenti utilizzati
 Il progetto è stato realizzato con python (matplotlib, pandas, geopandas e relative dipendenze).<br>
-La presentazione è stata realizzata con Canva
+La presentazione è stata realizzata con Canva.
